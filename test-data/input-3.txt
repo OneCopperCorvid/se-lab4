@@ -1,0 +1,4 @@
+# if primary empty fires secondary
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE  #should fire successfully from primary
