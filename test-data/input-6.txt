@@ -1,0 +1,4 @@
+# testing all with different emptinesses
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
